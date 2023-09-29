@@ -1,1 +1,1 @@
-shelloo
+Shell basics repository
