@@ -1,1 +1,1 @@
-Shell basics repository
+first project intro to Shell
